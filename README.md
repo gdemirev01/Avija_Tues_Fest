@@ -1,6 +1,6 @@
 Avija 
 
-!https://i.imgur.com/ANPKzGy.png
+![](https://i.imgur.com/ANPKzGy.png)
 
 Описание: 
 
