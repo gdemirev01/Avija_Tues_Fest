@@ -1,6 +1,6 @@
 Avija 
 
-![Лого/Визия на проекта] https://i.imgur.com/ANPKzGy.png
+!https://i.imgur.com/ANPKzGy.png
 
 Описание: 
 
